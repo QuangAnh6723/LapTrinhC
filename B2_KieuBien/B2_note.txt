@@ -1,0 +1,3 @@
+- Các kiểu dữ liệu trong c
+- Biến toàn cục, biến cục bộ
+- volatile, const, 

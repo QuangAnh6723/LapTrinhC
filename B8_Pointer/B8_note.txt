@@ -1,0 +1,4 @@
+- Con trỏ trong lập trình
+- Kich thuoc con tro
+- con tro cap 1, con tro cap 2
+

@@ -1,0 +1,4 @@
+- ham void
+- Hàm có kiểu trả về
+- đối số truyền vào hàm
+- 

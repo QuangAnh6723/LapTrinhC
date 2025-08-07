@@ -1,0 +1,6 @@
+- gioi thieu ngon ngu lap trinh c
+- cai dat moi truong lap trinh c, gcc va make
+
+- hoc printf
+- hoc scanf
+-

@@ -1,0 +1,2 @@
+- mảng 1 chiều
+- mảng 2 chiều 
